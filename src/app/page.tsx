@@ -11,7 +11,7 @@ import Architecture from "@/components/Home/Architecture";
 import Solution from "@/components/Home/Solution";
 
 export const metadata: Metadata = {
-  title: "Nicktio",
+  title: "Pricentive",
 };
 
 export default function Home() {
